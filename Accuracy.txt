@@ -1,0 +1,10 @@
+Electricity Theft Detection in Smart Grids Based on Deep Neural Network.
+
+Clustering (To find Electricity Theft (Target value)) 
+
+Agglomerative clustering with cluster value = 3 as from our other analysis (base on mean energy)
+
+Algorithm / Model used : Artificial Neural Network (ANN).
+
+Training Accuracy: 0.99 and
+Validation Accuracy: 0.99.
